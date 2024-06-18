@@ -4,7 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # Telegram Bot Token
-TOKEN = '6827764342:AAGXmg-mTTK6yp_TYzRW99S0ToevZx-iw1Q'
+TOKEN = '7264987898:AAE5Y00J67nVsVT2lUDXZh9921Q0C8O-flA' # 6827764342:AAGXmg-mTTK6yp_TYzRW99S0ToevZx-iw1Q'
 
 # Function to handle the /start command
 def start(update, context):
